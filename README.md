@@ -5,7 +5,7 @@
 
    🌱 I’m currently learning JavaScript, Python and SQL. 
 
-   💞️ I’m looking to collaborate on whatever I would be able to help with :)
+   💞️ I’m looking to collaborate on whatever I am to help with :)
 
    📫 How to reach me: 
 
