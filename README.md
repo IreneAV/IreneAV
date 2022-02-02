@@ -3,9 +3,9 @@
 
    👀 I’m interested in learning to code and develop some useful projects. 
 
-   🌱 I’m currently learning JavaScript, Python and SQL. 
+   🌱 Currently learning JavaScript, Python and SQL. 
 
-   💞️ I’m looking to collaborate on whatever I am able to help with :)
+   💞️ Looking to collaborate on whatever I am able to help with :)
 
    📫 How to reach me: 
 
