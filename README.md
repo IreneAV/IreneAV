@@ -4,6 +4,7 @@
    👀 I’m interested in learning to code and develop some useful projects. 
 
    🌱 Currently learning JavaScript, Python and SQL. 
+   
       -In progress Full stack Junior Bootcamp by KeepCoding
       -05/2021 Des@rrolladoras Course (html, css, Javascript) by Samsung.
 
